@@ -1,0 +1,24 @@
+{
+  "name": "jest-set-up",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michael-duke/Jest-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michael-duke/Jest-Exercise/issues"
+  },
+  "homepage": "https://github.com/michael-duke/Jest-Exercise#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
